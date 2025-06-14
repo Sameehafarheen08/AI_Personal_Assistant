@@ -1,0 +1,11 @@
+speechrecognition
+pyttsx3
+wikipedia
+pywhatkit
+datetime
+requests
+pyjokes
+pyautogui
+opencv-python
+openai
+plyer
